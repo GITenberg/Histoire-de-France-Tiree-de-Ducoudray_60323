@@ -1,0 +1,39 @@
+_repo: Histoire-de-France-Tiree-de-Ducoudray_60323
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Super, O. B. (Ovando Byron)
+    alias: Super, Ovando Byron
+    birthdate: 1848
+    deathdate: 1935
+    gutenberg_agent_id: '38268'
+    url: http://www.gutenberg.org/2009/agents/38268
+  - agent_name: Ducoudray, Gustave
+    alias: Ducoudray, G. (Gustave)
+    birthdate: 1838
+    deathdate: 1906
+    gutenberg_agent_id: '50900'
+    url: http://www.gutenberg.org/2009/agents/50900
+    wikipedia: https://fr.wikipedia.org/wiki/Gustave_Ducoudray
+description: ''
+gutenberg_bookshelf:
+- FR Histoire
+- FR Nouveautés
+gutenberg_issued: '2019-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60323'
+  lccn: '00006323'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History'
+- !lcc 'DC'
+- !lcsh 'French language -- Readers'
+- GITenberg
+title: 'Histoire de France
+
+  Tirée de Ducoudray'
+url: http://www.gutenberg.org/ebooks/60323
